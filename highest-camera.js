@@ -13,7 +13,7 @@ const phones = [
     { name: 'Oppo', camera: 8, storage: '32gb', price: 20000, color: 'golden' },
     { name: 'Nokia', camera: 25, storage: '32gb', price: 44000, color: 'black' },
     { name: 'HTC', camera: 30, storage: '64gb', price: 62000, color: 'silver' }
-]
+];
 
 function highestCameraPhone(phones) {
     let highest = phones[0];

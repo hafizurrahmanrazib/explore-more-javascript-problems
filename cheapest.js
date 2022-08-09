@@ -13,7 +13,7 @@ const phones = [
     { name: 'Oppo', camera: '12MP', storage: '32gb', price: 20000, color: 'golden' },
     { name: 'Nokia', camera: '15MP', storage: '32gb', price: 44000, color: 'black' },
     { name: 'HTC', camera: '10MP', storage: '64gb', price: 62000, color: 'silver' }
-]
+];
 
 function cheapestPhone(phones) {
     let cheapest = phones[0];
